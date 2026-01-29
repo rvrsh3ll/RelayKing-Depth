@@ -204,7 +204,7 @@ python3 relayking.py -u ‘lowpriv’ -p ‘lowpriv-password’ -d client.domain
 
 **While extremely unlikely/improbable, if RelayKing somehow breaks something, you're on your own, and neither the Author or Depth Security are liable for any outcomes/issues/problems/upside-down-geospatial-bit-flipping-nuclear-explosions that could possibly arise (however unlikely) from execution of RelayKing. Your mileage may vary. RelayKing is, once again, provided with NO GUARANTEES OR WARRANTY OF ANY SPECIFIC OUTCOMES, FEATURES, UTILITY, OR BEHAVIOR - EXPLICITLY MENTIONED HERE (AND/OR NOT MENTIONED) OR OTHERWISE IMPLIED.**
 
-**The only legitimate GitHub repository by the Author (logansdiomedi) is present at https://github.com/depthsecurity/RelayKing - all others are forks/copies/whatever else, the Author has likely not read, validated, tested, analyzed, or inspected for functionality/behavior/legitimacy. Use your head.**
+**The only legitimate GitHub repository by the Author (logansdiomedi) is present at https://github.com/depthsecurity/RelayKing-Depth - all others are forks/copies/whatever else, the Author has likely not read, validated, tested, analyzed, or inspected for functionality/behavior/legitimacy. Use your head.**
 
 ## License
 
